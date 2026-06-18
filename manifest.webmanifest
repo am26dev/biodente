@@ -1,0 +1,16 @@
+{
+  "name": "BioDente — Clínica Dentária",
+  "short_name": "BioDente",
+  "description": "Clínica dentária de excelência em Luanda. Marque a sua consulta.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00a896",
+  "lang": "pt-AO",
+  "orientation": "portrait-primary",
+  "categories": ["health", "medical", "business"],
+  "icons": [
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

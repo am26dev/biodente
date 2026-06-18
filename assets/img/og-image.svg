@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#04253c"/><stop offset="1" stop-color="#0a3d5e"/></linearGradient>
+    <linearGradient id="mk" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00c9b1"/><stop offset="1" stop-color="#058679"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1050" cy="120" r="260" fill="#00c9b1" opacity="0.12"/>
+  <circle cx="120" cy="560" r="220" fill="#00c9b1" opacity="0.10"/>
+  <g transform="translate(90 150)">
+    <rect width="96" height="96" rx="26" fill="url(#mk)"/>
+    <path d="M48 22c-10 0-14 4.4-20 4.4-4 0-6.8-1.4-9-1.4-1.8 0-3 1.2-3 4 0 8.8 2.6 18.4 5.6 26.8C25.2 65.6 29.2 78 34 78c3.8 0 4.8-6 6.8-12 1.4-4 3.2-6.4 7.2-6.4s5.8 2.4 7.2 6.4c2 6 3 12 6.8 12 4.8 0 8.8-12.4 13.4-22.2 3-8.4 5.6-18 5.6-26.8 0-2.8-1.2-4-3-4-2.2 0-5 1.4-9 1.4-6 0-10-4.4-20-4.4Z" fill="#fff"/>
+  </g>
+  <text x="210" y="200" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff">Bio<tspan fill="#4df7da">Dente</tspan></text>
+  <text x="92" y="330" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="800" fill="#ffffff">Sorriso Saudável,</text>
+  <text x="92" y="412" font-family="Segoe UI, Arial, sans-serif" font-size="72" font-weight="800" fill="#4df7da">Vida Mais Feliz.</text>
+  <text x="92" y="486" font-family="Segoe UI, Arial, sans-serif" font-size="34" fill="#a9cdd3">Clínica Dentária de Excelência · Luanda, Angola</text>
+  <g transform="translate(92 528)" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#ffffff">
+    <rect x="0" y="0" width="230" height="56" rx="28" fill="#00c9b1"/>
+    <text x="115" y="37" text-anchor="middle" fill="#04253c">+22 anos · 24h</text>
+  </g>
+</svg>
